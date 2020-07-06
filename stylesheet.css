@@ -1,0 +1,15 @@
+/*CSS STYLING*/
+body{
+    text-align: center;
+    background-color: black;
+}
+
+.badge{
+    color: white;
+}
+.btn{
+    color: white;
+}
+h1{
+    display: inline-block;
+}
